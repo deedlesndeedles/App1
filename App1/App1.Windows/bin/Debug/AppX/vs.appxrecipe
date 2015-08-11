@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARKASUS</Machine>
+    <WindowsUser>Mark</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>521b55c4-02ff-4861-9082-f65ada731cc8</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9A873E3A3E6081280EABE8295BD559DD2CB1D2684645030532B3BD253249D7F1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>521b55c4-02ff-4861-9082-f65ada731cc8_1.0.0.0_neutral__73zwdfx56gv16</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>521b55c4-02ff-4861-9082-f65ada731cc8_73zwdfx56gv16!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>521b55c4-02ff-4861-9082-f65ada731cc8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mark</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-10T16:38:00.141</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2015-08-11T22:06:39.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-11T20:48:41.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-10T16:37:59.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-11T20:48:41.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mark\OneDrive\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-10T16:37:59.874</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
